@@ -1,0 +1,5 @@
+name=Knox Bite Immunity
+id=KnoxBiteImmunity
+author=Alex
+description=Zombie bites still hurt, bleed and need treatment, but they no longer transmit the Knox virus. Scratches and lacerations are untouched. Safe to add to or remove from an existing save.
+versionMin=42.20.0
